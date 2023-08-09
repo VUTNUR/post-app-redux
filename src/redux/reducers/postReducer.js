@@ -23,6 +23,7 @@ const postReducer=(state=initialState,action)=>{
             )
         default:
             return state
+            
     }
 }
 
